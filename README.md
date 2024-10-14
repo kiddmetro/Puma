@@ -16,7 +16,7 @@ To run this project locally, follow these steps:
 git clone https://github.com/yourusername/project-name.git
 cd project-name
 
-*Install Tailwind CSS: If you're using a package manager like npm, install the required dependencies:
+* Install Tailwind CSS: If you're using a package manager like npm, install the required dependencies:
 
 npm install
 
