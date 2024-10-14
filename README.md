@@ -13,21 +13,15 @@ To run this project locally, follow these steps:
 
 * Clone the repository:
 
-bash
-Copy code
 git clone https://github.com/yourusername/project-name.git
 cd project-name
 
 *Install Tailwind CSS: If you're using a package manager like npm, install the required dependencies:
 
-bash
-Copy code
 npm install
 
 * Run the development server: Start a live-reload development server (if you're using a build tool):
 
-bash
-Copy code
 npm run dev
 
 If you're not using a build tool, you can open the index.html file directly in your browser.
