@@ -6,7 +6,7 @@ This project is a static website built with React and Tailwind CSS. It showcases
 
 - Tailwind CSS - Utility-first CSS framework
 - HTML5 - Markup language for structuring the web content
-- React + Vite as framework
+- React + Vite 
 
 # Installation
 To run this project locally, follow these steps:
